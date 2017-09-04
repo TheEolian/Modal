@@ -1,4 +1,4 @@
-// Get modal emement
+// Get modal element
 var modal = document.getElementById('simpleModal');
 // Get open modal button
 var modalBtn = document.getElementById('modalBtn');
